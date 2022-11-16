@@ -3,7 +3,7 @@
 ## About me
 My name is Quinn Jones. I am 22 years old, and I am from St. Louis. I have 7 siblings. I am also in the US Army.  
 
-- [Football](/QuinnJonesMarkDown/football.md)
+- [Football](/QuinnJonesMarkDown/README.md/football.md)
 - [Army](/QuinnJonesMarkDown/army.md)
 - [Snake Game](/QuinnJonesMarkDown/snake.md)
 - [Cool Websites](/QuinnJonesMarkDown/websites.md)
